@@ -5,7 +5,8 @@ tagline: Nainital
 email: your-email@domain.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
-baseurl: "/bulma-clean-theme"
+baseurl: "https://ghar-nainital.github.io"
+#/bulma-clean-theme"
 url: "https://ghar-nainital.github.io"
 permalink: pretty
 #favicon: /path/to/favicon.png
