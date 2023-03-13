@@ -1,0 +1,14 @@
+style: is-light
+items:
+  - title: Birding
+    subtitle: Which, Where
+    icon: fa-map
+  - title: Hiking
+    subtitle: Where, How
+    icon: fa-leaf
+  - title: Food
+    subtitle: Best places
+    icon: fa-beer
+  - title: Stays
+    subtitle: Favorite ones
+    icon: fa-home

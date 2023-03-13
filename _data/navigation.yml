@@ -1,0 +1,22 @@
+- name: Birding
+  link: /birding/
+- name: Hiking
+  link: /hiking/
+- name: Blog
+  link: /blog/
+- name: Example Pages
+  link: /#
+  dropdown:
+    - name: Landing Page With Callouts
+      link: /landing/
+    - name: Sponsors Page
+      link: /sponsors/
+    - name: Image Gallery
+      link: /gallery/
+    - name: Products
+      link: /products/
+    - name: Recipe Page
+      link: /example-recipe/
+    - name: Showcase
+      link: /showcase/
+  

@@ -1,0 +1,54 @@
+- label: Birds
+  items:
+    - name: Himalayan Bulbul
+      link: /birding/docs/himalayan_bulbul/
+    - name: Blue-fronted Redstart
+      link: /birding/docs/blue_fronted_redstart/
+    - name: Blue-capped Redstart
+      link: /birding/docs/blue_capped_redstart/
+    - name: Plumbeous Redstart
+      link: /birding/docs/plumbeous_redstart/
+    - name: Black-throated Tit
+      link: /birding/docs/black_throated_tit/
+    - name: Black-throated Tit
+      link: /birding/docs/black_throated_tit/
+    - name: Green-backed Tit
+      link: /birding/docs/green_backed_tit/
+    - name: Great Barbet
+      link: /birding/docs/great_barbet/
+    - name: Grey-hooded Warbler
+      link: /birding/docs/grey_hooded_warbler/
+    - name: Red-rumped Swallow
+      link: /birding/docs/red_rumped_swallow/
+    - name: Black-headed Jay
+      link: /birding/docs/black_headed_jay/
+    - name: Streaked Thrush
+      link: /birding/docs/streaked_thrush/
+    - name: Blue-whistling Thrush
+      link: /birding/docs/blue_whistling_thrush/
+    - name: White-throated Laughingthrush
+      link: /birding/docs/white_throated_laughingthrush/
+    - name: Chestnut-crowned Laughingthrush
+      link: /birding/docs/chestnut_crowned_laughingthrush/
+    - name: Grey-winged Blackbird
+      link: /birding/docs/grey_winged_blackbird/
+    - name: Oriental Turtle Dove
+      link: /birding/docs/oriental_turtle_dove/
+    - name: Greater Cormorant
+      link: /birding/docs/greater_cormorant/
+    - name: Grey-headed Canary Flycatcher
+      link: /birding/docs/grey_headed_canary_flycatcher/
+    - name: Verditter Flycatcher
+      link: /birding/docs/verditter_flycatcher/
+    - name: Bar-tailed Treecreeper
+      link: /birding/docs/bar_tailed_treecreeper/
+    - name: White-tailed Nuthatch
+      link: /birding/docs/white_tailed_nuthatch/
+    - name: White-browed Shrike Babbler
+      link: /birding/docs/white_browed_shrike_babbler_himalayan/
+    - name: Oriental Magpie Robin
+      link: /birding/docs/oriental_magpie_robin/
+    - name: Brown-fronted Woodpecker
+      link: /birding/docs/brown_fronted_woodpecker/
+    - name: Grey Wagtail
+      link: /birding/docs/grey_wagtail/
