@@ -39,5 +39,5 @@ comments: none
 
 ## Other pictures taken
 ![Plumbeous Redstart 1](/birding/img/plumbeous_redstart1.JPG)
-![Plumbeous Redstart 2](/bulma-clean-theme/birding/img/plumbeous_redstart2.JPG)
-![Plumbeous Redstart 3](/bulma-clean-theme/birding/img/plumbeous_redstart3.JPG)
+![Plumbeous Redstart 2](/birding/img/plumbeous_redstart2.JPG)
+![Plumbeous Redstart 3](/birding/img/plumbeous_redstart3.JPG)
