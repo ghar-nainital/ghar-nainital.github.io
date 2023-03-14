@@ -18,14 +18,11 @@ Here you will find the following
 
 * Birding
 * Hiking
-* Blog
-* Post
+* Blogs
 
 ## Hiking
 How about access to some scenic views? LEt us guide you through all the hikes we would do whenever we wanted an escape!
 
-## Supported By JetBrains
-
-JetBrains have kindly provided an Open Source licence to aid in the future development of Bulma Clean Theme.
+## Powered By
 
 [![JetBrains](img/jetbrains-variant-4.svg)](https://www.jetbrains.com/?from=bulma-clean-theme)
