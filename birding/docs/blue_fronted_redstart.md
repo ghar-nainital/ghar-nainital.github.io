@@ -14,7 +14,7 @@ toc: true
 {% include image-modal.html ratio="is-16by9" link="/birding/img/blue_fronted_redstart.JPG" alt="Example image" large_link="/birding/img/blue_fronted_redstart.JPG" %}
 </div>
 <div class="column is-6">
-Picture taken near: 29.387156287, 79.4538617
+Picture taken near: 29.387156287, 79.4538617 (roughly middle of the route to St. Xaviers from Shiv-Mandir)
 </div>
 </div>
 
@@ -29,7 +29,7 @@ Places sighted:
 ```
 
 ## Observation
-Not the most easiest to spot. Sits still when it does sit but quite timid and moves away quickly. Mostly stayed away from human-sight in trees and bushes. Saw once coming to an open field bery briefly. Often the female was also nearby.
+Not the most easiest to spot. Sits still when it does sit but quite timid and moves away quickly. Mostly stayed away from human-sight in trees and bushes. Saw once coming to an open field very briefly. Often the female was also nearby.
 
 ```markdown
 comments: none

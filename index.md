@@ -3,7 +3,7 @@ title: Nainital Insights
 subtitle: A local's POV on how to and how not to enjoy the soul of this lovely town
 layout: page
 callouts: home_callouts
-show_sidebar: true
+show_sidebar: false
 ---
 
 # Nainital
@@ -21,7 +21,7 @@ Here you will find the following
 * Blogs
 
 ## Hiking
-How about access to some scenic views? LEt us guide you through all the hikes we would do whenever we wanted an escape!
+How about access to some scenic views? Let us guide you through all the hikes we would do whenever we wanted an escape!
 
 ## Powered By
 
