@@ -7,8 +7,7 @@ description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 domain: ghar-nainital.github.io  
 baseurl: "/"
-#baseurl: "/ghar-nainital.github.io/"
-#/bulma-clean-theme"
+#baseurl: "/bulma-clean-theme"
 url: "https://ghar-nainital.github.io"
 
 permalink: pretty
