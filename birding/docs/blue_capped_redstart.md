@@ -39,7 +39,7 @@ An odd small redstart of open dry forests. Male doesn’t look like any other re
 
 
 ## Other pictures taken
-![Blue-fronted Redstart 1](/birding/img/blue_fronted_redstart1.JPG)
-![Blue-fronted Redstart 2](/birding/img/blue_fronted_redstart2.JPG)
-![Blue-fronted Redstart 3](/birding/img/blue_fronted_redstart3.JPG)
-![Blue-fronted Redstart 4](/birding/img/blue_fronted_redstart4.JPG2
+![Blue-capped Redstart 1](/birding/img/blue_capped_redstart1.JPG)
+![Blue-capped Redstart 2](/birding/img/blue_capped_redstart2.JPG)
+![Blue-capped Redstart 3](/birding/img/blue_capped_redstart3.JPG)
+![Blue-capped Redstart 4](/birding/img/blue_capped_redstart4.JPG2)
