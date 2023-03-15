@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trash town
+title: Trash Town
 description: What do you care what other people do?
 date: 2023-03-15 09:00:07
 hero_image: /img/blog/trash_town.jpeg
@@ -11,5 +11,5 @@ tags: bulma-clean-theme jekyll blog
 series: trash_town_series
 ---
 
-## DOes it matter?
+## Does it matter?
 Trash trash trash! Coming soon.
