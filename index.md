@@ -18,10 +18,7 @@ Here you will find the following
 
 * Birding
 * Hiking
-* Blogs
-
-## Hiking
-How about access to some scenic views? Let us guide you through all the hikes we would do whenever we wanted an escape!
+* Blog posts
 
 ## Powered By
 

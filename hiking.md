@@ -5,4 +5,4 @@ menubar: hiking_menu
 show_sidebar: false
 ---
 
-Places to hike to in Nainital.
+How about access to some scenic views? Let us guide you through all the hikes we would do whenever we wanted an escape!
