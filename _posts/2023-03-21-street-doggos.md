@@ -22,4 +22,4 @@ So, what can we do to help these furry creatures and make our town a better plac
 
 One approach to managing street dog populations is through humane and effective methods such as mass sterilization and vaccination programs. Additionally, efforts can be made to provide food, shelter, and medical care for street dogs, either through community-led initiatives or with the support of animal welfare organizations.
 
-Ultimately, it is important to strike a balance between ensuring public safety and protecting the welfare of street dogs, and this can be achieved through a collaborative and compassionate approach.
+Ultimately, it is important to strike a balance between ensuring public safety and protecting the welfare of street dogs, and this can be achieved through a collaborative and compassionate approach. Credit: Chat-GPT
