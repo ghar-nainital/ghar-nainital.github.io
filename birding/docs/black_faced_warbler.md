@@ -11,7 +11,7 @@ toc: true
 
 <div class="columns">
 <div class="column is-6">
-{% include image-modal.html ratio="is-16by9" link="/birding/img/black_faced_warbler.JPG" alt="Example image" large_link="/birding/img/black_faced_warbler.jpg" %}
+{% include image-modal.html ratio="is-16by9" link="/birding/img/black_faced_warbler.jpg" alt="Example image" large_link="/birding/img/black_faced_warbler.jpg" %}
 </div>
 <div class="column is-6">
 Picture taken at:
