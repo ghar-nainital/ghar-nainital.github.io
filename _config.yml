@@ -2,7 +2,7 @@
 lang: en
 title: Nainital
 tagline: Nainital
-email: your-email@domain.com
+email: ghar.nainital@gmail.com
 description: >
   The demo site for Bulma Clean Theme, made for Jekyll and GitHub pages websites
 domain: ghar-nainital.github.io  
@@ -54,6 +54,10 @@ sass:
   source_dir: _sass
 
 google_analytics: G-JCWBM1M71B
+# Google Ads
+adsense:
+  client_id: 'ca-pub-6526747047911972' # Google Adsense client ID
+  auto_ads: true
 
 defaults:
   -
